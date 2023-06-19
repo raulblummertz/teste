@@ -2,6 +2,8 @@
 
 > Status: teste
 
-...
+```
+
 node app.js
-...
+
+```
